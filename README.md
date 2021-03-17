@@ -1,5 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World
-![](https://user-images.githubusercontent.com/51481016/105621940-68416980-5e3f-11eb-9c57-52afbc101e7d.gif)
+![profile](https://user-images.githubusercontent.com/51481016/111436937-1cbb8580-8735-11eb-9b5f-14ebd7b46f56.gif)
 
 ### 🤵 About Me:
 
