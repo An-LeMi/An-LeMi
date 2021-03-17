@@ -20,4 +20,5 @@
    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="55" height="55"/>
    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="55" height="55"/>
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/>
 </p>  
