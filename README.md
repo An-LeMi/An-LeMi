@@ -1,8 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World
-<p align="center">
-      <img src="![profile](https://user-images.githubusercontent.com/51481016/111436937-1cbb8580-8735-11eb-9b5f-14ebd7b46f56.gif)">
-<p>
-
+<div align="center">
+      <img src="https://github.com/An-LeMi/An-LeMi/blob/main/profile.gif" align="center" style="width: 100%" />
+</div>  
+  
 ### 🤵 About Me:
 
 - 🔭 I’m currently studying at HaNoi University of Science and Technology
