@@ -1,10 +1,8 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World
 <div align="center">
       <img src="https://github.com/An-LeMi/An-LeMi/blob/main/profile.gif" align="center" style="width: 100%" />
 </div>  
   
 ### 🤵 About Me:
-
 - 🔭 I’m currently studying at HaNoi University of Science and Technology
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
