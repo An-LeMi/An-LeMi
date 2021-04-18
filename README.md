@@ -20,4 +20,5 @@
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="55" height="55"/>
    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="55" height="55"/>
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="C" width="55" height="55"/>
 </p>  
